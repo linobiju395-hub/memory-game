@@ -1,0 +1,5 @@
+{
+  "name": "MindMatch AI",
+  "description": "An advanced memory matching game featuring Classic Image modes and an AI-powered Concept Match mode where Gemini generates unique themed pairs based on your input.",
+  "requestFramePermissions": []
+}
